@@ -8,7 +8,7 @@ of the [ILCarro](https://icarro-v1.netlify.app/search?page=0&size=10) web applic
 ## 📌 Project Overview
 
 This project focuses on automated UI testing for the core features of the ILCarro platform, 
-such as user authentication and registration. 
+such as user authentication, registration etc. 
 
 > 📝 **Note:** The Test Plan and Test Design documentation will be added to this repository soon.
 
