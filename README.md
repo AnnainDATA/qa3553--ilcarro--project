@@ -1,7 +1,7 @@
 # 🚗 ILCarro Automation Testing Project
 
 This repository contains automated test scripts for verifying the functionality 
-of the [ILCarro](https://icarro-v1.netlify.app/search?page=0&size=10) web application using Python and Selenium WebDriver.
+of the [ILCarro](https://icarro-v1.netlify.app/search?page=0&size=10) website using Python and Selenium WebDriver.
 
 ---
 
